@@ -1,6 +1,6 @@
 Please conside the below factors while contibuting
 
-code Style:
+Code Style:
 Maintain a consistent code style for readaability.
 
 Documentation:
